@@ -1,0 +1,17 @@
+/Users/pkulik/Projects/AllenInstitute/Bonsai_Headless/HelloBonsai/bin/Debug/netcoreapp3.1/HelloBonsai
+/Users/pkulik/Projects/AllenInstitute/Bonsai_Headless/HelloBonsai/bin/Debug/netcoreapp3.1/HelloBonsai.deps.json
+/Users/pkulik/Projects/AllenInstitute/Bonsai_Headless/HelloBonsai/bin/Debug/netcoreapp3.1/HelloBonsai.runtimeconfig.json
+/Users/pkulik/Projects/AllenInstitute/Bonsai_Headless/HelloBonsai/bin/Debug/netcoreapp3.1/HelloBonsai.runtimeconfig.dev.json
+/Users/pkulik/Projects/AllenInstitute/Bonsai_Headless/HelloBonsai/bin/Debug/netcoreapp3.1/HelloBonsai.dll
+/Users/pkulik/Projects/AllenInstitute/Bonsai_Headless/HelloBonsai/bin/Debug/netcoreapp3.1/HelloBonsai.pdb
+/Users/pkulik/Projects/AllenInstitute/Bonsai_Headless/HelloBonsai/bin/Debug/netcoreapp3.1/Bonsai.Core.dll
+/Users/pkulik/Projects/AllenInstitute/Bonsai_Headless/HelloBonsai/bin/Debug/netcoreapp3.1/System.Reactive.Core.dll
+/Users/pkulik/Projects/AllenInstitute/Bonsai_Headless/HelloBonsai/bin/Debug/netcoreapp3.1/System.Reactive.Interfaces.dll
+/Users/pkulik/Projects/AllenInstitute/Bonsai_Headless/HelloBonsai/bin/Debug/netcoreapp3.1/System.Reactive.Linq.dll
+/Users/pkulik/Projects/AllenInstitute/Bonsai_Headless/HelloBonsai/obj/Debug/netcoreapp3.1/HelloBonsai.csprojAssemblyReference.cache
+/Users/pkulik/Projects/AllenInstitute/Bonsai_Headless/HelloBonsai/obj/Debug/netcoreapp3.1/HelloBonsai.AssemblyInfoInputs.cache
+/Users/pkulik/Projects/AllenInstitute/Bonsai_Headless/HelloBonsai/obj/Debug/netcoreapp3.1/HelloBonsai.AssemblyInfo.cs
+/Users/pkulik/Projects/AllenInstitute/Bonsai_Headless/HelloBonsai/obj/Debug/netcoreapp3.1/HelloBonsai.csproj.CopyComplete
+/Users/pkulik/Projects/AllenInstitute/Bonsai_Headless/HelloBonsai/obj/Debug/netcoreapp3.1/HelloBonsai.dll
+/Users/pkulik/Projects/AllenInstitute/Bonsai_Headless/HelloBonsai/obj/Debug/netcoreapp3.1/HelloBonsai.pdb
+/Users/pkulik/Projects/AllenInstitute/Bonsai_Headless/HelloBonsai/bin/Debug/netcoreapp3.1/System.CodeDom.dll
